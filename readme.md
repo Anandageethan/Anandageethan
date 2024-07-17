@@ -1,6 +1,6 @@
 # Hello, I'm Anandageethan R B 👋
 **New Graduate🎓**
-<img align="right" width="370" height="290" src="https://lottiefiles.com/free-animation/software-developer-k9feZBM5Vw">
+<img align="right" width="370" height="290" src="file:///C:/Users/ANANDGEETHAN/Downloads/Software/your-gif-file.gif" alt="Description of GIF">
 - 📚 I’m currently learning DSA
 - 🗨️ Reach me on:
   
