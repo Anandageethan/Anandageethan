@@ -2,7 +2,7 @@
 
 **New Graduate🎓**
 
-<img align="right" width="370" height="290" src="https://github.com/Anandageethan/Anandageethan/blob/main/Software.gif" alt="Description of GIF">
+<img align="right" width="370" height="290" src="https://iconscout.com/lottie-animation/man-developed-code-for-app-development-6764704">
 
 - 📚 I’m currently learning DSA
 - 🗨️ Reach me on:
