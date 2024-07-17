@@ -2,10 +2,7 @@
 
 **New Graduate🎓**
 
-<video align="right" width="370" height="290" controls>
-  <source src="https://github.com/Anandageethan/Anandageethan/blob/main/Software.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img align="right" width="370" height="290" src="https://github.com/Anandageethan/Anandageethan/blob/main/Software.gif" alt="Description of GIF">
 
 - 📚 I’m currently learning DSA
 - 🗨️ Reach me on:
