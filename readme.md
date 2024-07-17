@@ -1,6 +1,6 @@
 # Hello, I'm Anandageethan R B 👋
 **New Graduate🎓**
-<img align="right" width="370" height="290" src="https://iconscout.com/lottie-animation/software-engineer-launching-code-6369144">
+<img align="right" width="370" height="290" src="https://lottiefiles.com/free-animation/software-developer-k9feZBM5Vw">
 - 📚 I’m currently learning DSA
 - 🗨️ Reach me on:
   
