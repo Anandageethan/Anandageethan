@@ -1,6 +1,6 @@
 # Hello, I'm Anandageethan R B 👋
 **New Graduate🎓**
-<img align="right" width="370" height="290" src="file:///C:/Users/ANANDGEETHAN/Downloads/Software/your-gif-file.gif" alt="Description of GIF">
+<img align="right" width="370" height="290" src="file:///C:/Users/ANANDGEETHAN/Downloads/Software.gif" alt="Description of GIF">
 - 📚 I’m currently learning DSA
 - 🗨️ Reach me on:
   
