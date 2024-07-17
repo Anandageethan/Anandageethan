@@ -2,7 +2,7 @@
 
 **New Graduate🎓**
 
-<img align="right" width="370" height="290" src="https://iconscout.com/lottie-animation/man-developed-code-for-app-development-6764704">
+<img align="right" width="370" height="290" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 📚 I’m currently learning DSA
 - 🗨️ Reach me on:
