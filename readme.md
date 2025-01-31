@@ -4,7 +4,7 @@
 
 <img align="right" width="370" height="290" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 📚 I’m currently learning DSA
+- 📚 Aspiring Java Developer learning Spring Boot.
 - 😉 Pronouns: Techie
 - 🗨️ Reach me on:
   
