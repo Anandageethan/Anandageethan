@@ -8,7 +8,7 @@
 - 😉 Pronouns: Techie
 - 🗨️ Reach me on:
   
-[<img src="https://img.icons8.com/?size=50&id=MR3dZdlA53te&format=png" />](https://www.linkedin.com/in/anandageethan-r-b-b80334250/) [<img src="https://img.icons8.com/?size=50&id=nj0Uj45LGUYh&format=png" />](https://www.instagram.com/anandageethan_rb/)
+[<img src="https://img.icons8.com/?size=50&id=MR3dZdlA53te&format=png" />](https://www.linkedin.com/in/anandageethan-r-b-b80334250/) [<img src="https://img.icons8.com/?size=50&id=nj0Uj45LGUYh&format=png" />](https://www.instagram.com/_anandageethan_/)
 
 ### I code in
 
